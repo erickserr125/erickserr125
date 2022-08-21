@@ -1,7 +1,7 @@
 # Hi, I’m Erick Serrano, and I am an undergraduate student at the University of Nevada Las Vegas (UNLV) studying Computer Science, Computer Engineering, and Physics
 #### I’m interested in Software Development, Machine Learning, and Quantum Computing; I have studied the former two extensively, and have completed research under faculty supervision for quantum computing. I am primarily experienced in Python (which many of my projects are based on) and C++ (which I apply toward coursework).
 
-I am currently open to work in software! I have programming coursework in 
+I am currently open to work in software, hardware, and research! I have programming coursework in 
 - Algorithms
 - Data structures
 - Operating Systems
