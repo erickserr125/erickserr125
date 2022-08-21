@@ -9,7 +9,7 @@ I am currently open to work in software, hardware, and research! I have programm
 - Embedded Systems
 - Computer Architecture
 - Biometrics
-- Machine Learnign
+- Machine Learning
 
 I have math coursework in
 - vector calculus
