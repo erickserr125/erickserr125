@@ -1,9 +1,30 @@
--UPDATE: I recently completed my thesis! It is currently unpublished, but I am working with my mentor, Dr. Bernard Zygelman, to publish the work in a journal. You can find the unpublished work in my [AQC repository](https://github.com/erickserr125/AQC-QNN/blob/main/Thesis_unpublished.pdf).
-- Hi, I’m Erick Serrano, and I am an undergraduate student at the University of Nevada Las Vegas (UNLV) studying Computer Science, Computer Engineering, and Physics
-- I’m interested in Quantum Computing, Machine Learning, and Nuclear Physics; I have studied the former two extensively, and have completed research under faculty supervision.
-- I'm currently learning about the Quantum Approximate Optimization algorithm and adiabatic quantum computing. I will be applying both toward the analog creation of a neural network.
-- I’m looking to collaborate on quantum computing and machine learning projects! I would love to learn more from others and produce real-world applications!
-- You can reach me through [my email](mailto:serrae4@unlv.nevada.edu) or through [LinkedIn](https://www.linkedin.com/in/erick-serrano-a45698140/)
+# Hi, I’m Erick Serrano, and I am an undergraduate student at the University of Nevada Las Vegas (UNLV) studying Computer Science, Computer Engineering, and Physics
+## I’m interested in Software Development, Machine Learning, and Quantum Computing; I have studied the former two extensively, and have completed research under faculty supervision for quantum computing. I am primarily experienced in Python (which many of my projects are based on) and C++ (which I apply toward coursework).
+-I am currently open to work in software! I have programming coursework in 
+-- Algorithms
+-- Data structures
+-- Operating Systems
+-- Compilers
+-- Embedded Systems
+-- Computer Architecture
+-- Biometrics
+-- Machine Learnign
+
+I have math coursework in
+-- vector calculus
+-- linear algebra,
+-- Probability 
+-- Discrete Mathematics
+
+and I have several technology experiences such as:
+-- Linux OS
+-- Django
+-- Git & Github
+-- Jupyter Notebook
+-- Scikit Learn (Machine Learning)
+-- APIs
+
+`You can reach me through [my email](mailto:serrae4@unlv.nevada.edu) or through [LinkedIn](https://www.linkedin.com/in/erick-serrano-a45698140/)`
 
 <!---
 erickserr125/erickserr125 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
