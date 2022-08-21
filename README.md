@@ -25,7 +25,7 @@ and I have several technology experiences such as:
 - Scikit Learn (Machine Learning)
 - APIs
 
-`You can reach me through [my email](mailto:serrae4@unlv.nevada.edu) or through [LinkedIn](https://www.linkedin.com/in/erick-serrano-a45698140/)`
+You can reach me through [my email](mailto:serrae4@unlv.nevada.edu) or through [LinkedIn](https://www.linkedin.com/in/erick-serrano-a45698140/)
 
 <!---
 erickserr125/erickserr125 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
